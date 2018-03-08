@@ -2,28 +2,27 @@ Sviluppo Web
 -----------
 
 La realizzazione di un sito web professionale per un servizio della PA
-prevede, come abbiamo visto, un iter di progettazione approfondito e
-sistematico.
+prevede un iter di progettazione approfondito e sistematico.
 
-Oltre a questo, durante le fasi iniziali dello sviluppo, è fondamentale
+Durante le fasi iniziali dello sviluppo, è fondamentale
 dedicare tempo e risorse ad alcune attività molto importanti, che avranno
 impatto sull'intero ciclo di vita del progetto:
 
-* una analisi di **componenti** (librerie, linguaggi, documentazione, ecc.) e
-  **best practices** già utilizzate e validate dalla comunità, che possano
+* un’analisi di **componenti** (librerie, linguaggi, documentazione, ecc.) e
+  **best practice** già utilizzate e validate dalla comunità, che possano
   **semplificare e standardizzare** la realizzazione del servizio
 * una revisione dei requisiti di progetto con lo scopo di ottenere un
   **documento di specifiche** condiviso, che possa anche definire **ruoli** e
   **responsabilità**
 * la selezione di una metodologia di **sviluppo agile** ottimale per il team di
-  lavoro, e una definizione precisa delle procedure di comunicazione, di
+  lavoro e una definizione precisa delle procedure di comunicazione, di
   testing e di rilascio
 
-Contestualmente a questa fase di *kick-off* tecnico, è auspicabile avviare sin
+Contestualmente a questa fase di *kick-off* tecnico, è auspicabile avviare
 da subito una fase di prototipazione avanzata, con la quale iniziare a
 validare in modo iterativo ogni progresso raggiunto. Questo può essere
-ottenuto sia con classici test manuali, che attraverso un’adeguata *continuous
-integration* che faccia uso di test automatici.
+ottenuto sia tramite test manuali, che attraverso un’adeguata *continuous
+integration* che integra test automatici.
 
 
 Progressive Enhancement e Graceful Degradation
